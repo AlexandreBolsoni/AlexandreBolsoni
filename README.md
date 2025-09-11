@@ -79,7 +79,7 @@
     </td>
     <td>
       <a href="https://github.com/AlexandreBolsoni/agenda-Contatos" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/agenda-Contatos/main/assets/img/foto-do-projeto.png" width="300px" alt="Preview do Gerador de Senha Segura / Agenda"/>
+        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/agenda-Contatos/main/assets/img/foto-do-projeto.png" width="300px" alt="Preview da Agenda"/>
         <br>
         <sub><b>Gerador de Senha Segura / Agenda</b></sub>
       </a>
