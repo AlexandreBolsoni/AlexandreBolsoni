@@ -44,31 +44,31 @@
 <table border="1">
   <tr align="center">
     <td>
-      <a href="https://github.com/AlexandreBolsoni/NLW-eSports-ignite">
+      <a href="https://github.com/AlexandreBolsoni/irrifes_app">
         <img src="https://raw.githubusercontent.com/AlexandreBolsoni/NLW-eSports-ignite/main/.github/preview.png" width="300px" alt="NLW eSports"/>
         <br>
-        <sub><b>NLW eSports (Ignite)</b></sub>
+        <sub><b>Irrifes Tensiômetro(Ignite)</b></sub>
       </a>
       <br>
-      <sub>Plataforma para encontrar duos para jogar, desenvolvida na Trilha Ignite da Rocketseat.</sub>
+      <sub>Plataforma para manejo de irrigação de precisão.</sub>
       <br>
-      <sub><strong>(React, TypeScript, Node.js, TailwindCSS)</strong></sub>
+      <sub><strong>(Flutter, Dart, NoSql Firebase)</strong></sub>
     </td>
     <td>
-      <a href="https://github.com/AlexandreBolsoni/projeto-pokedex">
+      <a href="https://github.com/AlexandreBolsoni/trabalho-mobile">
         <img src="https://raw.githubusercontent.com/AlexandreBolsoni/projeto-pokedex/main/src/imagens/captura-de-tela-pokedex.png" width="300px" alt="Projeto Pokédex"/>
         <br>
-        <sub><b>Projeto Pokédex</b></sub>
+        <sub><b>Gestao de clinicas</b></sub>
       </a>
       <br>
-      <sub>Uma Pokédex clássica e interativa para visualizar informações sobre Pokémon via API.</sub>
+      <sub>Sistema completo de agendamento de consultas médicas,</sub>
       <br>
-      <sub><strong>(JavaScript, HTML, CSS, API Rest)</strong></sub>
+      <sub><strong>(Flutter, Dart, Django Rest Framework></sub>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/AlexandreBolsoni/site-portfolio">
+      <a href="https://github.com/AlexandreBolsoni/modern-resume-glow">
         <img src="https://raw.githubusercontent.com/AlexandreBolsoni/site-portfolio/main/src/imagens/foto-portfolio.png" width="300px" alt="Site Portfólio"/>
         <br>
         <sub><b>Site Portfólio</b></sub>
@@ -76,18 +76,18 @@
       <br>
       <sub>Meu portfólio pessoal para apresentar minhas habilidades e principais projetos.</sub>
       <br>
-      <sub><strong>(HTML, CSS, JavaScript)</strong></sub>
+      <sub><strong>(HTML, CSS, JavaScript, React)</strong></sub>
     </td>
      <td>
-      <a href="https://github.com/AlexandreBolsoni/Gerador_de_Senha_Segura">
+      <a href="https://github.com/AlexandreBolsoni/agenda-Contatos">
         <img src="https://raw.githubusercontent.com/AlexandreBolsoni/Gerador_de_Senha_Segura/main/assets/img/foto-do-projeto.png" width="300px" alt="Gerador de Senha"/>
         <br>
-        <sub><b>Gerador de Senha Segura</b></sub>
+        <sub><b>[Gerador de Senha Segura](https://github.com/AlexandreBolsoni/agenda-Contatos)</b></sub>
       </a>
       <br>
-      <sub>Uma ferramenta simples e útil para gerar senhas seguras com base em critérios definidos pelo usuário.</sub>
+      <sub>Uma ferramenta simples e útil para Salvar numeros de contato temporariamente.</sub>
       <br>
-      <sub><strong>(HTML, CSS, JavaScript)</strong></sub>
+      <sub><strong>(HTML, CSS, TypeScript)</strong></sub>
     </td>
   </tr>
 </table>
