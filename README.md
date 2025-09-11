@@ -1,106 +1,116 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Olá, eu sou o Alexandre Bolsoni!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="wave"/>
+  <h1 style="display:inline-block; margin-left:10px;">Olá — eu sou o Alexandre Bolsoni!</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="smile"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexandre-bolsoni-55aa33261/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-hackbardt-155b03258" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:alexandre.bolsoni1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+  <a href="https://github.com/AlexandreBolsoni?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou **Alexandre Hackbardt Bolsoni**, Tecnólogo em Sistemas para Internet (IFES) e Desenvolvedor FullStack — apaixonado por transformar ideias em produtos digitais simples, escaláveis e com boa experiência de usuário.  
+Atualmente foco em aplicações mobile com **Flutter/Dart** e aplicações web modernas com **React / TypeScript / Node.js**.
+
+- 🌍 Local: São Roque do Canaã - ES, Brazil.  
+- 🔭 Projeto atual: melhorando apps em Flutter + integração com backend (Django REST / Firebase).  
+- ⚡ Gosto: interfaces limpas, automação de testes e code reviews.
+
+> Portfolio: https://alexandre-portfolio.lovable.app. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexandreBolsoni&repo=AlexandreBolsoni&countColor=794afd" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,styledcomponents,git,github,vscode,figma,flutter,dart,python&perline=8" alt="tech icons"/>
 </div>
 
----
-
-### :man_technologist: Sobre Mim
-
-<p>
-  Sou um Desenvolvedor FullStack apaixonado por transformar ideias em código e criar soluções digitais intuitivas e eficientes. Com uma base sólida em desenvolvimento web, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-  <br>
-  Atualmente, meu foco está no ecossistema JavaScript, trabalhando com tecnologias como <strong>React</strong>, <strong>Node.js</strong> e <strong>TypeScript</strong> para construir aplicações modernas e escaláveis.
-</p>
+Principais: **Flutter · Dart · React · TypeScript · Node.js · Django REST · Firebase · Git**.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+## 🚀 Destaque de Projetos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,tailwind,styledcomponents,git,github,vscode,figma&perline=6" />
-</p>
+> *Todas as imagens abaixo são placeholders (mockups). Recomendo substituir por screenshots reais com boas composições — por exemplo, tela de login, dashboard e uma ação-chave do app.*
 
----
-
-### 🚀 Projetos em Destaque
-
-<table border="1">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/AlexandreBolsoni/irrifes_app">
-        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/NLW-eSports-ignite/main/.github/preview.png" width="300px" alt="NLW eSports"/>
-        <br>
-        <sub><b>Irrifes Tensiômetro(Ignite)</b></sub>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AlexandreBolsoni/irrifes_app" target="_blank">
+        <img src="https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=800&q=60&auto=format&fit=crop" width="300" alt="Irrifes Tensiômetro preview"/>
+        <br/>
+        <strong>Irrifes Tensiômetro (Ignite)</strong>
       </a>
-      <br>
-      <sub>Plataforma para manejo de irrigação de precisão.</sub>
-      <br>
-      <sub><strong>(Flutter, Dart, NoSql Firebase)</strong></sub>
+      <p>Plataforma para manejo de irrigação de precisão — monitoramento e agendamento de ações.</p>
+      <p><em>Flutter · Dart · Firebase (NoSQL)</em></p>
     </td>
-    <td>
-      <a href="https://github.com/AlexandreBolsoni/trabalho-mobile">
-        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/projeto-pokedex/main/src/imagens/captura-de-tela-pokedex.png" width="300px" alt="Projeto Pokédex"/>
-        <br>
-        <sub><b>Gestao de clinicas</b></sub>
+
+    <td align="center" width="50%">
+      <a href="https://github.com/AlexandreBolsoni/trabalho-mobile" target="_blank">
+        <img src="https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&q=60&auto=format&fit=crop" width="300" alt="Gestão de Clínicas preview"/>
+        <br/>
+        <strong>Gestão de Clínicas</strong>
       </a>
-      <br>
-      <sub>Sistema completo de agendamento de consultas médicas,</sub>
-      <br>
-      <sub><strong>(Flutter, Dart, Django Rest Framework></sub>
+      <p>Sistema completo de agendamento e gerenciamento de consultas médicas.</p>
+      <p><em>Flutter · Dart · Django REST Framework</em></p>
     </td>
   </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/AlexandreBolsoni/modern-resume-glow">
-        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/site-portfolio/main/src/imagens/foto-portfolio.png" width="300px" alt="Site Portfólio"/>
-        <br>
-        <sub><b>Site Portfólio</b></sub>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AlexandreBolsoni/site-portfolio" target="_blank">
+        <img src="https://images.unsplash.com/photo-1523475496153-3d6cc2c7c1b8?w=800&q=60&auto=format&fit=crop" width="300" alt="Site Portfólio preview"/>
+        <br/>
+        <strong>Site Portfólio</strong>
       </a>
-      <br>
-      <sub>Meu portfólio pessoal para apresentar minhas habilidades e principais projetos.</sub>
-      <br>
-      <sub><strong>(HTML, CSS, JavaScript, React)</strong></sub>
+      <p>Meu site pessoal para apresentar habilidades e projetos.</p>
+      <p><em>HTML · CSS · JavaScript · React</em></p>
     </td>
-     <td>
-      <a href="https://github.com/AlexandreBolsoni/agenda-Contatos">
-        <img src="https://raw.githubusercontent.com/AlexandreBolsoni/Gerador_de_Senha_Segura/main/assets/img/foto-do-projeto.png" width="300px" alt="Gerador de Senha"/>
-        <br>
-        <sub><b>[Gerador de Senha Segura](https://github.com/AlexandreBolsoni/agenda-Contatos)</b></sub>
+
+    <td align="center" width="50%">
+      <a href="https://github.com/AlexandreBolsoni/agenda-Contatos" target="_blank">
+        <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=60&auto=format&fit=crop" width="300" alt="Gerador de Senha preview"/>
+        <br/>
+        <strong>Gerador de Senha Segura / Agenda</strong>
       </a>
-      <br>
-      <sub>Uma ferramenta simples e útil para Salvar numeros de contato temporariamente.</sub>
-      <br>
-      <sub><strong>(HTML, CSS, TypeScript)</strong></sub>
+      <p>Ferramenta simples para gerar senhas seguras e salvar contatos temporariamente.</p>
+      <p><em>HTML · CSS · TypeScript</em></p>
     </td>
   </tr>
 </table>
 
-➡️ [Veja todos os meus projetos](https://github.com/AlexandreBolsoni?tab=repositories)
+➡️ Veja todos os repositórios: https://github.com/AlexandreBolsoni?tab=repositories. :contentReference[oaicite:3]{index=3}
 
 ---
 
-### 📊 Estatísticas do GitHub
+## ✨ Inovações / melhorias que implementei neste README
 
+1. **Acessibilidade e SEO**: alt-texts descritivos nas imagens e títulos claros.  
+2. **Uniformidade visual**: tecnologia listada com `·` e títulos em negrito.  
+3. **Placeholders profissionais**: usei mockups de alta qualidade (Unsplash) para manter o visual enquanto você não envia screenshots. Substitua quando possível.   
+4. **CTAs e colaboração**: adicionei seções que convidam contribuições (abaixo).  
+5. **Roadmap público (próximos passos)**: mostra evolução e direções futuras — útil para recrutadores.
+
+---
+
+## 📈 Estatísticas & Widgets
+
+> Se quiser manter os widgets do GitHub (readme-stats, streaks), eu recomendo centralizá-los e garantir que os endpoints estejam corretos.
+
+```markdown
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreBolsoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBolsoni&layout=compact&langs_count=7&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreBolsoni&theme=tokyonight&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexandreBolsoni&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBolsoni&layout=compact&theme=tokyonight" alt="Top langs"/>
 </div>
